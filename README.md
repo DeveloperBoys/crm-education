@@ -6,4 +6,4 @@ Used technologies:
     - django-rest-framework
 2. **Frontend**: Html, CSS, JavaScript
 
-Backend Developer: @murtazoxurramov
+Backend Developer [@murtazoxurramov](https://github.com/murtazoxurramov)
